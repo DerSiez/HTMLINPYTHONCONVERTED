@@ -1,0 +1,5 @@
+{
+    "sockets":true,
+    "setINDEX":"host",
+    "debug":false
+}
